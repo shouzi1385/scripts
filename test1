@@ -1,0 +1,2 @@
+import tensorflow as tf
+print(tf.config.list_physical_devices())  # 应显示可用设备（CPU/GPU）
